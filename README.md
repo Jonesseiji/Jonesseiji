@@ -31,7 +31,7 @@ Full Stack Developer Junior
 </div>
 <br />
  
-<h3>📫 You can contact via:</h3>
+<h3>📫 You can contact me via:</h3>
  
 <a href="https://instagram.com/jonesseiji" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jones-seiji-kadomoto-bezerra-165864180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
